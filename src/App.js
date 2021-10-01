@@ -9,7 +9,7 @@ function App() {
     <h1>React project</h1>
 
     <Demo name="Bruce Wayne" 
-          email="brucewayn@test.com"
+          email="waynentrprise@test.com"
     />
     </>
   );
